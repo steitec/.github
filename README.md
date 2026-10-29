@@ -11,3 +11,14 @@ that does not have its own version of the file.
 | [SECURITY.md](.github/SECURITY.md) | How to report vulnerabilities privately |
 | [ISSUE_TEMPLATE/](.github/ISSUE_TEMPLATE) | Bug report and feature request forms |
 | [pull_request_template.md](.github/pull_request_template.md) | Pull request checklist |
+
+## Brand assets
+
+[brand/](brand) holds the steitec logo that the READMEs of all repositories
+load from here, so a change to the logo only has to be made once.
+
+| File | Use |
+| ---- | --- |
+| [steitec-logo-on-light.svg](brand/steitec-logo-on-light.svg) | Logo for light backgrounds |
+| [steitec-logo-on-dark.svg](brand/steitec-logo-on-dark.svg) | Logo for dark backgrounds |
+| [steitec-avatar.svg](brand/steitec-avatar.svg) | Square profile picture |
